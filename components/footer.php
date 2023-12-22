@@ -14,32 +14,29 @@
         <div class="footer-col">
           <h4>Entreprise</h4>
           <ul>
-            <li><a href="#">A propos</a></li>
+            <li><a href="#">A propos de nous</a></li>
             <li><a href="#">Nos services</a></li>
             <li><a href="#">Politique de confidentialité</a></li>
-            <li><a href="#">Visitez notre site</a></li>
           </ul>
         </div>
         <div class="footer-col">
           <h4>Aide</h4>
           <ul>
             <li><a href="#">FAQ</a></li>
-            <li><a href="#">Livraison</a></li>
-            <li><a href="#">Retours</a></li>
-            <li><a href="#">Suivre vos colis</a></li>
-            <li><a href="#">Options de paiement</a></li>
+            <li><a href="#">Nous contacter</a></li>
+            <li><a href="#">Faire une donation</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4>Magasin en ligne</h4>
+          <h4>Application mobile</h4>
           <ul>
             <li><a href="#">Telecharger l'application</a></li>
-            <li><a href="#">Mise à jour </a></li>
+            <li><a href="#">Mises à jour </a></li>
             <li><a href="#">Toutes les versions</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4>Suivez-Nous</h4>
+          <h4>Suivez-nous</h4>
           <div class="social-links">
             <a href="https://www.facebook.com/Afpa.France/"><i class="bi bi-facebook"></i></a>
             <a href="https://twitter.com/afpa_formation"><i class="bi bi-twitter-x"></i></a>

@@ -7,22 +7,24 @@
     <title>Document</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg bg-success">
+<nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Afpa</a>
+    <div id="imageLogo" class="">
+    <img src="./assets/img/clabonne.png" alt="" style="width:200px;">
+  </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-white mt-1 mx-2" href="#">Trouver votre centre</a>
+          <a class="nav-link text-white mt-1 mx-4 fs-4" href="#">Trouver votre centre</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white mt-1 mx-2" href="#">Vos questions</a>
+          <a class="nav-link text-white mt-1 mx-4 fs-4" href="#">Vos questions</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link mx-2"><button class="btn btn-primary rounded-0">Vous connecter</button></a>
+          <a class="nav-link"><button class="btn btn-primary rounded-0 mx-4 fs-4">Vous connecter</button></a>
         </li>
       </ul>
     </div>
